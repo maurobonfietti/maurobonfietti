@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Explore my work on [my Public Profile](https://github.com/maurobonfietti?tab=repositories&q=&type=&language=&sort=stargazers), and if something catches your interest, feel free to leave a comment 😄 or a star ⭐️.
+Explore my work on [my Public Repos](https://github.com/maurobonfietti?tab=repositories&q=&type=&language=&sort=stargazers), and if something catches your interest, feel free to leave a comment 😄 or a star ⭐️.
 
 <!--
 **maurobonfietti/maurobonfietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
